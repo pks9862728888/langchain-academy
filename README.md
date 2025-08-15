@@ -3,6 +3,16 @@
 uv pip install --index-url https://pypi.org/simple langgraph
 uv sync
 
+## Travily
+Tavily Search API is a search engine optimized for LLMs and RAG, aimed at efficient, quick, and persistent search results.
+
+### Concepts
+Kinds of agents
+- router
+- fully autonomous
+
+
+
 ## Introduction
 
 Welcome to LangChain Academy! 
